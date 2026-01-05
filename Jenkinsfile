@@ -5,7 +5,7 @@ pipeline {
         DOCKER_IMAGE = 'kirahigashi/demo-web' 
         DOCKER_TAG = 'latest'
         REGISTRY_CREDENTIALS = 'dockerhub-id' 
-        GIT_REPO = 'https://github.com/vtnHAN-SOLO/23127180_23127533.git'
+        GIT_REPO = 'https://github.com/vtnHAN-SOLO/CSC11004-PROJECT-03.git'
         CONTAINER_NAME = 'website-do-an'
     }
 
